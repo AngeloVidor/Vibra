@@ -15,3 +15,4 @@ C:\Vibra\Vibra.DAL\obj\Debug\net8.0\refint\Vibra.DAL.dll
 C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.pdb
 C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.genruntimeconfig.cache
 C:\Vibra\Vibra.DAL\obj\Debug\net8.0\ref\Vibra.DAL.dll
+c:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.sourcelink.json

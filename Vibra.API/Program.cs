@@ -1,13 +1,17 @@
 using Microsoft.EntityFrameworkCore;
 using Vibra.API.Controllers;
 using Vibra.BLL.Interfaces;
+using Vibra.BLL.Interfaces.ArtistUser;
 using Vibra.BLL.Interfaces.Tokens;
 using Vibra.BLL.Mapping;
 using Vibra.BLL.Services;
+using Vibra.BLL.Services.ArtistUser;
 using Vibra.BLL.Services.Tokens;
 using Vibra.DAL.Context;
 using Vibra.DAL.Interfaces;
+using Vibra.DAL.Interfaces.ArtistUser;
 using Vibra.DAL.Repositories;
+using Vibra.DAL.Repositories.ArtistUser;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
@@ -60,7 +64,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddScoped<IAddStandardUserRepository, AddStandardUserRepository>();
 builder.Services.AddScoped<IAddStandardUserService, AddStandardUserService>();
 builder.Services.AddScoped<ITokenManagementService, TokenManagementService>();
-
+builder.Services.AddScoped<IAddArtistProfileRepository, AddArtistProfileRepository>();
+builder.Services.AddScoped<IAddArtistProfileService, AddArtistProfileService>();
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
 using Vibra.BLL.DTOs;
+using Vibra.Domain.Artist;
 using Vibra.Domain.User;
 
 namespace Vibra.BLL.Mapping
@@ -19,6 +20,9 @@ namespace Vibra.BLL.Mapping
             CreateMap<StandardUserDto, StandardUserEntity>();
 
             CreateMap<StandardUserLoginDto, StandardUserDto>();
+
+            CreateMap<ArtistEntity, AddArtistProfileDto>();
+            CreateMap<AddArtistProfileDto, ArtistEntity>();
         }
     }
 }

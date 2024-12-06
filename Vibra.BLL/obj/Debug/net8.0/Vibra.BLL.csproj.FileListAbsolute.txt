@@ -17,3 +17,4 @@ C:\Vibra\Vibra.BLL\obj\Debug\net8.0\refint\Vibra.BLL.dll
 C:\Vibra\Vibra.BLL\obj\Debug\net8.0\Vibra.BLL.pdb
 C:\Vibra\Vibra.BLL\obj\Debug\net8.0\Vibra.BLL.genruntimeconfig.cache
 C:\Vibra\Vibra.BLL\obj\Debug\net8.0\ref\Vibra.BLL.dll
+c:\Vibra\Vibra.BLL\obj\Debug\net8.0\Vibra.BLL.sourcelink.json

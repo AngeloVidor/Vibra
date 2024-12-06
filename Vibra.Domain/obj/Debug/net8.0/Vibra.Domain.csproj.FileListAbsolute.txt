@@ -9,3 +9,4 @@ C:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.dll
 C:\Vibra\Vibra.Domain\obj\Debug\net8.0\refint\Vibra.Domain.dll
 C:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.pdb
 c:\Vibra\Vibra.Domain\obj\Debug\net8.0\ref\Vibra.Domain.dll
+c:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.sourcelink.json
