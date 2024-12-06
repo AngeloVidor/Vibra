@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vibra.API.props" />
+</Project>

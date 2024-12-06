@@ -1,0 +1,17 @@
+C:\Vibra\Vibra.DAL\bin\Debug\net8.0\Vibra.DAL.deps.json
+C:\Vibra\Vibra.DAL\bin\Debug\net8.0\Vibra.DAL.runtimeconfig.json
+C:\Vibra\Vibra.DAL\bin\Debug\net8.0\Vibra.DAL.dll
+C:\Vibra\Vibra.DAL\bin\Debug\net8.0\Vibra.DAL.pdb
+C:\Vibra\Vibra.DAL\bin\Debug\net8.0\Vibra.Domain.dll
+C:\Vibra\Vibra.DAL\bin\Debug\net8.0\Vibra.Domain.pdb
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.csproj.AssemblyReference.cache
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.AssemblyInfoInputs.cache
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.AssemblyInfo.cs
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.csproj.CoreCompileInputs.cache
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.csproj.Up2Date
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.dll
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\refint\Vibra.DAL.dll
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.pdb
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\Vibra.DAL.genruntimeconfig.cache
+C:\Vibra\Vibra.DAL\obj\Debug\net8.0\ref\Vibra.DAL.dll

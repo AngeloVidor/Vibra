@@ -1,0 +1,11 @@
+c:\Vibra\Vibra.Domain\bin\Debug\net8.0\Vibra.Domain.deps.json
+C:\Vibra\Vibra.Domain\bin\Debug\net8.0\Vibra.Domain.dll
+C:\Vibra\Vibra.Domain\bin\Debug\net8.0\Vibra.Domain.pdb
+C:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.AssemblyInfoInputs.cache
+C:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.AssemblyInfo.cs
+C:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.csproj.CoreCompileInputs.cache
+C:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.dll
+C:\Vibra\Vibra.Domain\obj\Debug\net8.0\refint\Vibra.Domain.dll
+C:\Vibra\Vibra.Domain\obj\Debug\net8.0\Vibra.Domain.pdb
+c:\Vibra\Vibra.Domain\obj\Debug\net8.0\ref\Vibra.Domain.dll
