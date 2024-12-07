@@ -74,8 +74,8 @@ namespace Vibra.API.Middlewares
                     ValidateIssuer = true,
                     ValidateAudience = true,
                     ValidateLifetime = true,
-                    ValidIssuer = "http://localhost:5110",
-                    ValidAudience = "http://localhost:5110",
+                    ValidIssuer = "http://localhost:5225",
+                    ValidAudience = "http://localhost:5225",
                     IssuerSigningKey = key,
                     ClockSkew = TimeSpan.Zero
                 };

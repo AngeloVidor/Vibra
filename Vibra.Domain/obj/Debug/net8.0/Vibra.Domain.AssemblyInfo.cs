@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vibra.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+997de63ed899f58197ff4ccc577b365c3f228a39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3bb17aa30d7ff66ad415361aec783cc480d97b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vibra.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vibra.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
