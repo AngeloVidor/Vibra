@@ -5239,11 +5239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj",
+      "projectUniqueName": "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj",
       "projectName": "Vibra.DAL",
-      "projectPath": "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj",
+      "projectPath": "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "C:\\Vibra\\Vibra.DAL\\obj\\",
+      "outputPath": "c:\\Vibra\\Vibra.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",

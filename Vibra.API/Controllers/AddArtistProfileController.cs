@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Vibra.BLL.DTOs;
 using Vibra.BLL.Interfaces.ArtistUser;
@@ -10,6 +11,7 @@ namespace Vibra.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class AddArtistProfileController : ControllerBase
     {
         private readonly IAddArtistProfileService _addArtistProfileService;
