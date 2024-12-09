@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj": {}
+    "C:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj": {}
   },
   "projects": {
-    "c:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj": {
+    "C:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj",
+        "projectUniqueName": "C:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj",
         "projectName": "Vibra.BLL",
-        "projectPath": "c:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj",
+        "projectPath": "C:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "c:\\Vibra\\Vibra.BLL\\obj\\",
+        "outputPath": "C:\\Vibra\\Vibra.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj": {
-                "projectPath": "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj"
+              "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj": {
+                "projectPath": "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj"
               },
               "C:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj": {
                 "projectPath": "C:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj"
@@ -86,14 +86,14 @@
         }
       }
     },
-    "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj": {
+    "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj",
+        "projectUniqueName": "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj",
         "projectName": "Vibra.DAL",
-        "projectPath": "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj",
+        "projectPath": "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "c:\\Vibra\\Vibra.DAL\\obj\\",
+        "outputPath": "C:\\Vibra\\Vibra.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3245,11 +3245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj",
+      "projectUniqueName": "C:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj",
       "projectName": "Vibra.BLL",
-      "projectPath": "c:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj",
+      "projectPath": "C:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "c:\\Vibra\\Vibra.BLL\\obj\\",
+      "outputPath": "C:\\Vibra\\Vibra.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3267,8 +3267,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj": {
-              "projectPath": "c:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj"
+            "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj": {
+              "projectPath": "C:\\Vibra\\Vibra.DAL\\Vibra.DAL.csproj"
             },
             "C:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj": {
               "projectPath": "C:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj"

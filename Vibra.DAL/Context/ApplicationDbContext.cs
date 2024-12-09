@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Vibra.Domain.Artist;
+using Vibra.Domain.Tracks;
 using Vibra.Domain.User;
 
 namespace Vibra.DAL.Context
@@ -15,5 +16,6 @@ namespace Vibra.DAL.Context
 
         public DbSet<StandardUserEntity> StandardUsers { get; set; }
         public DbSet<ArtistEntity> Artists { get; set; }
+        public DbSet<TrackEntity> Tracks { get; set; }
     }
 }

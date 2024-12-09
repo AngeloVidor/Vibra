@@ -8,15 +8,19 @@ using Vibra.API.Middlewares;
 using Vibra.BLL.Interfaces;
 using Vibra.BLL.Interfaces.ArtistUser;
 using Vibra.BLL.Interfaces.Tokens;
+using Vibra.BLL.Interfaces.Tracks;
 using Vibra.BLL.Mapping;
 using Vibra.BLL.Services;
 using Vibra.BLL.Services.ArtistUser;
 using Vibra.BLL.Services.Tokens;
+using Vibra.BLL.Services.Tracks;
 using Vibra.DAL.Context;
 using Vibra.DAL.Interfaces;
 using Vibra.DAL.Interfaces.ArtistUser;
+using Vibra.DAL.Interfaces.Tracks;
 using Vibra.DAL.Repositories;
 using Vibra.DAL.Repositories.ArtistUser;
+using Vibra.DAL.Repositories.Tracks;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
@@ -68,6 +72,8 @@ builder.Services.AddScoped<IAddStandardUserService, AddStandardUserService>();
 builder.Services.AddScoped<ITokenManagementService, TokenManagementService>();
 builder.Services.AddScoped<IAddArtistProfileRepository, AddArtistProfileRepository>();
 builder.Services.AddScoped<IAddArtistProfileService, AddArtistProfileService>();
+builder.Services.AddScoped<IAddTrackRepository, AddTrackRepository>();
+builder.Services.AddScoped<IAddTrackService, AddTrackService>();
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 

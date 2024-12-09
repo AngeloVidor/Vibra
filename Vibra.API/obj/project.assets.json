@@ -5624,11 +5624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Vibra\\Vibra.API\\Vibra.API.csproj",
+      "projectUniqueName": "C:\\Vibra\\Vibra.API\\Vibra.API.csproj",
       "projectName": "Vibra.API",
-      "projectPath": "c:\\Vibra\\Vibra.API\\Vibra.API.csproj",
+      "projectPath": "C:\\Vibra\\Vibra.API\\Vibra.API.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "c:\\Vibra\\Vibra.API\\obj\\",
+      "outputPath": "C:\\Vibra\\Vibra.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5646,8 +5646,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj": {
-              "projectPath": "c:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj"
+            "C:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj": {
+              "projectPath": "C:\\Vibra\\Vibra.BLL\\Vibra.BLL.csproj"
             }
           }
         }

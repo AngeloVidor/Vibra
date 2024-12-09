@@ -31,7 +31,10 @@ namespace Vibra.API.Middlewares
                 return;
             }
 
-            var tokenAccess = context.Request.Headers["Authorization"].FirstOrDefault()?.Split(" ")[1];
+            var tokenAccess = context
+                .Request.Headers["Authorization"]
+                .FirstOrDefault()
+                ?.Split(" ")[1];
             if (string.IsNullOrEmpty(tokenAccess))
             {
                 throw new Exception("Token to provided");
@@ -42,7 +45,6 @@ namespace Vibra.API.Middlewares
             {
                 throw new Exception("Invalid token");
             }
-            
             var handler = new JwtSecurityTokenHandler();
             var jwtToken = handler.ReadToken(tokenAccess) as JwtSecurityToken;
             var userIdClaims = jwtToken?.Claims.FirstOrDefault(c =>

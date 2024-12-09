@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
+using Vibra.Domain.Tracks;
 using Vibra.Domain.User;
 
 namespace Vibra.Domain.Artist
@@ -22,5 +23,8 @@ namespace Vibra.Domain.Artist
         [JsonIgnore]
         public StandardUserEntity User { get; set; }
         public int UserId { get; set; }
+
+        public virtual ICollection<TrackEntity> Tracks { get; set; } = new List<TrackEntity>();
+        public int TrackId { get; set; }
     }
 }
