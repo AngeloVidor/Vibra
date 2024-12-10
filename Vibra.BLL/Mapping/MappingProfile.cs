@@ -27,6 +27,9 @@ namespace Vibra.BLL.Mapping
 
             CreateMap<TrackEntity, AddTrackDto>();
             CreateMap<AddTrackDto, TrackEntity>();
+
+            CreateMap<TrackEntity, GetArtistTrackDto>();
+
         }
     }
 }

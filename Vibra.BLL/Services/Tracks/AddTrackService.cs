@@ -31,5 +31,15 @@ namespace Vibra.BLL.Services.Tracks
             var addedTrack = await _addTrackRepository.AddTrackAsync(trackEntity);
             return _mapper.Map<AddTrackDto>(addedTrack);
         }
+
+        public async Task<List<GetArtistTrackDto>> GetArtistTracksAsync(int artistId)
+        {
+            if(artistId <= 0)
+            {
+                throw new Exception("ArtistID must be a positive integer");
+            }
+            var artistTracks = await _addTrackRepository.GetArtistTracksAsync(artistId);
+            return _mapper.Map<List<GetArtistTrackDto>>(artistTracks);
+        }
     }
 }

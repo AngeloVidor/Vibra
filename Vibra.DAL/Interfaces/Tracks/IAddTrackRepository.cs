@@ -9,5 +9,6 @@ namespace Vibra.DAL.Interfaces.Tracks
     public interface IAddTrackRepository
     {
         Task<TrackEntity> AddTrackAsync(TrackEntity track);
+        Task<List<TrackEntity>> GetArtistTracksAsync(int artistId);
     }
 }

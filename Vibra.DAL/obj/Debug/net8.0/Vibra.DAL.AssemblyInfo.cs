@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vibra.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1445e40cac5433ace6ec5fbc384f8446088c259")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21a073acd9057befc57b811cb8ce271c13c8c49d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vibra.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vibra.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

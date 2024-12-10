@@ -39,6 +39,32 @@ namespace Vibra.API.Controllers
                 return StatusCode(500, ex.Message);
             }
         }
+        [HttpGet("artist/tracks")]
+        public async Task<IActionResult> GetArtistTracksAsync()
+        {
+
+            try
+            {
+                var artistId = GetUserIdFromContext();
+                var response = await _addTrackService.GetArtistTracksAsync(artistId);
+
+                if (response == null || !response.Any())
+                {
+                    return NotFound($"No tracks found for artist with ID {artistId}.");
+                }
+
+                return Ok(response);
+            }
+            catch (UnauthorizedAccessException ex)
+            {
+                return Unauthorized(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"An error occurred: {ex.Message}");
+            }
+        }
+
 
         private int GetUserIdFromContext()
         {

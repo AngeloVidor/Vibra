@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Vibra.BLL.DTOs
 {
-    public class AddTrackDto
+    public class GetArtistTrackDto
     {
         [Key]
         public int Id { get; set; }

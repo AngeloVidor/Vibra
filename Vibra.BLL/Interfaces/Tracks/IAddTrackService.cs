@@ -9,5 +9,6 @@ namespace Vibra.BLL.Interfaces.Tracks
     public interface IAddTrackService
     {
         Task<AddTrackDto> AddTrackAsync(AddTrackDto addTrack);
+        Task<List<GetArtistTrackDto>> GetArtistTracksAsync(int artistId);
     }
 }

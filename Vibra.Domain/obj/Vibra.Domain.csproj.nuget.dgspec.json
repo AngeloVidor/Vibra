@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj": {}
+    "c:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj": {
+    "c:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj",
+        "projectUniqueName": "c:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj",
         "projectName": "Vibra.Domain",
-        "projectPath": "C:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj",
+        "projectPath": "c:\\Vibra\\Vibra.Domain\\Vibra.Domain.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Vibra\\Vibra.Domain\\obj\\",
+        "outputPath": "c:\\Vibra\\Vibra.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
